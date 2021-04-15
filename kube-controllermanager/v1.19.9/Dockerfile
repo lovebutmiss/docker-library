@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.19.9
+FROM k8s.gcr.io/kube-controller-manager:v1.19.10
 LABEL maintainer="lovebutmiss<yyzhangjt@gmail.com>"
