@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/google_containers/kube-apiserver-amd64:v1.19.9
+FROM k8s.gcr.io/kube-apiserver:v1.19.9
 LABEL maintainer="lovebutmiss<yyzhangjt@gmail.com>"
