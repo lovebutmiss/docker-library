@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.19.9
+LABEL maintainer="lovebutmiss<yyzhangjt@gmail.com>"
